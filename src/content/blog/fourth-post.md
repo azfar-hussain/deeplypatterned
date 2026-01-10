@@ -6,6 +6,11 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
 
 $$
-F_n = F_{n-1} + F_{n-2}
-\phi = \lim{n \to infty} \frac{F_n}{F_{n-1}} = \lim{n \to infty} \frac{F_n}{F_{n-1}}
+F_n = F_{n-1} + F_{n-2} \\
+\\
+\phi = \lim_{n \to \infty} \frac{F_n}{F_{n-1}} = \lim_{n \to \infty} \frac{F_{n-1}}{F_{n-2}} \\
+\\
+\phi = 1 + \frac{1}{\phi} \\
+\\
+\phi \approx 1.61803398875
 $$
