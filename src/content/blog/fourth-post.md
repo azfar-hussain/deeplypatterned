@@ -7,4 +7,5 @@ heroImage: '../../assets/blog-placeholder-2.jpg'
 
 $$
 F_n = F_{n-1} + F_{n-2}
+\phi = \lim{n \to infty} \frac{F_n}{F_{n-1}} = \lim{n \to infty} \frac{F_n}{F_{n-1}}
 $$
